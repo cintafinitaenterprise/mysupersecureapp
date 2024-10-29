@@ -10,7 +10,6 @@
 *5. execute the query
 *6. process the results
 *7. close
-*8. SSPV FASTTRACK DATALAB PERITACION HOGAR 
 */
 
 import java.io.*;
